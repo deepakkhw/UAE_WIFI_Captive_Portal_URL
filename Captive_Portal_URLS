@@ -1,0 +1,28 @@
+#Apple URL for Captive Portal Detection
+attwifi.apple.com
+captive.apple.com
+www.apple.com
+apple.com
+example.org
+#Andriod URL for Captive Portal Detection
+connectivitycheck.gstatic.com
+clients3.google.com
+clients4.google.com
+android.clients.google.com
+www.gstatic.com
+#Windows URL for Captive Portal Detection
+www.msftconnecttest.com
+msftconnecttest.com
+www.msftncsi.com
+msftncsi.com
+#Edge URL for Captive Portal Detection
+edge-http.microsoft.com
+#Firefox URL for Captive Portal Detection
+detectportal.firefox.com
+#UAE Capitive Portal URLs
+wifiuae.duwifi.ae
+wifi.boingohotspot.net
+portal-gcp.boingohotspot.net
+wowfi.dubaiairports.ae
+dubaiairports.ae
+
